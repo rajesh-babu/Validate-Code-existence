@@ -1,0 +1,10 @@
+{
+	"name": "HelloWorld",
+	"description": "Script to test the hello world for Web accessibility",
+	"version": "0.0.1",
+	"dependencies": {},
+	"devDependencies": {
+		"webdriverjs": "^1.7.4",
+		"colors": "^0.6.2"		
+	}
+}
